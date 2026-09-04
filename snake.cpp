@@ -3,7 +3,7 @@
 #include <windows.h>//ccc
 #include <vector>
 #include <cstdlib> // vclluon
-#include <ctime> // toi test lan 6
+#include <ctime> // toi test lan 7
 
 using namespace std;
 
